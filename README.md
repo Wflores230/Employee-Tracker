@@ -34,4 +34,7 @@ This tracking application works just with the MySQL package, allowing Node.js to
 
 ## Screenshots/Gif
 ![Employee Tracker](Assets/employee-tracker.gif)
+![Screenshot (80)](https://user-images.githubusercontent.com/76802722/116351133-1a7f2900-a7c1-11eb-9b0c-13cd9722e8b3.png)
+![Screenshot (81)](https://user-images.githubusercontent.com/76802722/116351138-1ce18300-a7c1-11eb-82ac-e0a557654c3f.png)
+
 
